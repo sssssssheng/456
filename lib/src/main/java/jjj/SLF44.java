@@ -12,7 +12,7 @@ private static Logger LOGGER = LoggerFactory.getLogger(SLF44.class);
 
 public static void main(String[] args) {
 LOGGER.info("Hello World123");
-//System.out.println("Hello World");
+ System.out.println("Hello World");
 
 
 
